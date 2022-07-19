@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665074424161",
+    "project_id": "movie-4ce98",
+    "storage_bucket": "movie-4ce98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665074424161:android:1feedd5d4f9f9b0d790d20",
+        "android_client_info": {
+          "package_name": "com.benfou.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665074424161-r3go1mtb5abd42lhnmrfpjrci4pgtd0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHeypnKZrx1s1QH_Nizz7KNFzExoeUfc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665074424161-r3go1mtb5abd42lhnmrfpjrci4pgtd0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
